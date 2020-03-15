@@ -44,15 +44,14 @@ Start the local development server
 You can now access the server at http://localhost:8000
 
 
-To do the test online, just use the file phone.csv
-> Remembering that the file phone.csv, must be have the pattern below
+To do the test online, just use the file South_African_Mobile_Numbers.csv
+> Remember that the csv file must be structured as below
 ```sh
 id,sms_phone
 103343262,6478342944
 103426540,84528784843
 103278808,263716791426
-103426733,27736529279
-103426000,27718159078
+
 ```
 
 ## License
